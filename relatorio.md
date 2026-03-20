@@ -1,4 +1,4 @@
-# Relatório de experimentação
+# Relatório de experimentação (time 2: Elyson, Samara, João Pedro e Lucas Carson)
 O jogo é bem simples e intuitivo como mais um dos genéricos Escape Room, a adição desse é optar por um visual pobre em qualidade mas simples de se entender por qualquer pessoa de 6+. Jogo relativamente curto pra o gênero e os escapes parecem mais um "Pegue a chave e abra a porta", má otimização do VR pra celulares mais fracos apesar de ser extremamente simples no nivel de repetir as texturas.
 
 ## Impressões do grupo sobre a jogabilidade
@@ -15,3 +15,4 @@ N/A
 
 ## O que o grupo considera ser possível em jogos normais que não funcionariam em jogos AR/VR
 Mecânicas muito dependentes de reflexos e agilidade.
+
